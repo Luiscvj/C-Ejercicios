@@ -1,0 +1,15 @@
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/obj/Debug/net7.0/array.csproj.AssemblyReference.cache
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/obj/Debug/net7.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/obj/Debug/net7.0/array.AssemblyInfoInputs.cache
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/obj/Debug/net7.0/array.AssemblyInfo.cs
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/obj/Debug/net7.0/array.csproj.CoreCompileInputs.cache
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/bin/Debug/net7.0/array
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/bin/Debug/net7.0/array.deps.json
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/bin/Debug/net7.0/array.runtimeconfig.json
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/bin/Debug/net7.0/array.dll
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/bin/Debug/net7.0/array.pdb
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/obj/Debug/net7.0/array.dll
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/obj/Debug/net7.0/refint/array.dll
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/obj/Debug/net7.0/array.pdb
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/obj/Debug/net7.0/array.genruntimeconfig.cache
+/home/apolm01-012/Documents/C#/ejercicio1Prueba/Ejercicio2/array/obj/Debug/net7.0/ref/array.dll
