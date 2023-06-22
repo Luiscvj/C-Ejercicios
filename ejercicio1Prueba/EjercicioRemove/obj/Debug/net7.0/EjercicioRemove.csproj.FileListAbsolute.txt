@@ -1,0 +1,15 @@
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/bin/Debug/net7.0/EjercicioRemove
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/bin/Debug/net7.0/EjercicioRemove.deps.json
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/bin/Debug/net7.0/EjercicioRemove.runtimeconfig.json
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/bin/Debug/net7.0/EjercicioRemove.dll
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/bin/Debug/net7.0/EjercicioRemove.pdb
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/obj/Debug/net7.0/EjercicioRemove.csproj.AssemblyReference.cache
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/obj/Debug/net7.0/EjercicioRemove.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/obj/Debug/net7.0/EjercicioRemove.AssemblyInfoInputs.cache
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/obj/Debug/net7.0/EjercicioRemove.AssemblyInfo.cs
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/obj/Debug/net7.0/EjercicioRemove.csproj.CoreCompileInputs.cache
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/obj/Debug/net7.0/EjercicioRemove.dll
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/obj/Debug/net7.0/refint/EjercicioRemove.dll
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/obj/Debug/net7.0/EjercicioRemove.pdb
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/obj/Debug/net7.0/EjercicioRemove.genruntimeconfig.cache
+/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioRemove/obj/Debug/net7.0/ref/EjercicioRemove.dll
