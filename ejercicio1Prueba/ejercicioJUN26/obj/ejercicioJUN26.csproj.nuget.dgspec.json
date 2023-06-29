@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/ejercicioJUN26/ejercicioJUN26.csproj": {}
+    "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\ejercicioJUN26\\ejercicioJUN26.csproj": {}
   },
   "projects": {
-    "/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/ejercicioJUN26/ejercicioJUN26.csproj": {
+    "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\ejercicioJUN26\\ejercicioJUN26.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/ejercicioJUN26/ejercicioJUN26.csproj",
+        "projectUniqueName": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\ejercicioJUN26\\ejercicioJUN26.csproj",
         "projectName": "ejercicioJUN26",
-        "projectPath": "/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/ejercicioJUN26/ejercicioJUN26.csproj",
-        "packagesPath": "/home/apolm01-012/.nuget/packages/",
-        "outputPath": "/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/ejercicioJUN26/obj/",
+        "projectPath": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\ejercicioJUN26\\ejercicioJUN26.csproj",
+        "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\ejercicioJUN26\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/apolm01-012/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

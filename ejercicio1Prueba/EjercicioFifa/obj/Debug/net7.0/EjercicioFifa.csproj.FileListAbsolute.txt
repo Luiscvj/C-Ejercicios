@@ -1,0 +1,15 @@
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\bin\Debug\net7.0\EjercicioFifa.exe
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\bin\Debug\net7.0\EjercicioFifa.deps.json
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\bin\Debug\net7.0\EjercicioFifa.runtimeconfig.json
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\bin\Debug\net7.0\EjercicioFifa.dll
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\bin\Debug\net7.0\EjercicioFifa.pdb
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\obj\Debug\net7.0\EjercicioFifa.csproj.AssemblyReference.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\obj\Debug\net7.0\EjercicioFifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\obj\Debug\net7.0\EjercicioFifa.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\obj\Debug\net7.0\EjercicioFifa.AssemblyInfo.cs
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\obj\Debug\net7.0\EjercicioFifa.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\obj\Debug\net7.0\EjercicioFifa.dll
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\obj\Debug\net7.0\refint\EjercicioFifa.dll
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\obj\Debug\net7.0\EjercicioFifa.pdb
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\obj\Debug\net7.0\EjercicioFifa.genruntimeconfig.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifa\obj\Debug\net7.0\ref\EjercicioFifa.dll

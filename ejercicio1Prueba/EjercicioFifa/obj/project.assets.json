@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/apolm01-012/.nuget/packages/": {}
+    "C:\\Users\\luisc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioFifa/EjercicioFifa.csproj",
+      "projectUniqueName": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\EjercicioFifa.csproj",
       "projectName": "EjercicioFifa",
-      "projectPath": "/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioFifa/EjercicioFifa.csproj",
-      "packagesPath": "/home/apolm01-012/.nuget/packages/",
-      "outputPath": "/home/apolm01-012/Documents/C#/C-Ejercicios/ejercicio1Prueba/EjercicioFifa/obj/",
+      "projectPath": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\EjercicioFifa.csproj",
+      "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/apolm01-012/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

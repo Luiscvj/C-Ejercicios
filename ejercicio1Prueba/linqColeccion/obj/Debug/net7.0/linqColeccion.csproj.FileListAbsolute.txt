@@ -1,0 +1,15 @@
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\bin\Debug\net7.0\linqColeccion.exe
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\bin\Debug\net7.0\linqColeccion.deps.json
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\bin\Debug\net7.0\linqColeccion.runtimeconfig.json
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\bin\Debug\net7.0\linqColeccion.dll
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\bin\Debug\net7.0\linqColeccion.pdb
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\obj\Debug\net7.0\linqColeccion.csproj.AssemblyReference.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\obj\Debug\net7.0\linqColeccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\obj\Debug\net7.0\linqColeccion.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\obj\Debug\net7.0\linqColeccion.AssemblyInfo.cs
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\obj\Debug\net7.0\linqColeccion.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\obj\Debug\net7.0\linqColeccion.dll
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\obj\Debug\net7.0\refint\linqColeccion.dll
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\obj\Debug\net7.0\linqColeccion.pdb
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\obj\Debug\net7.0\linqColeccion.genruntimeconfig.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\linqColeccion\obj\Debug\net7.0\ref\linqColeccion.dll
