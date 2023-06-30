@@ -1,59 +1,113 @@
-[
+{
+  "A": [
     {
-        "A": [
-            {
-                "equipo": "Argentina",
-                "ciudad": "Cali",
-                "plantelJugadores": [
-                    {
-                        "nombre": "Luisa",
-                        "nroDorsal": "07",
-                        "posicionJuego": "Defensa",
-                        "edad": 22
-                    },
-                    {
-                        "nombre": "Alejandra",
-                        "nroDorsal": "10",
-                        "posicionJuego": "Delantero",
-                        "edad": 27
-                    }
-                ],
-                "plantelTecnico": [
-                    {
-                        "nombre": "Alvaro",
-                        "cargo": "entrenadorPrincipal",
-                        "edad": 43
-                    },
-                    {
-                        "nombre": "Luis",
-                        "cargo": "EntrenadorSuplente",
-                        "edad": 34
-                    }
-                ],
-                "plantelMedico": [
-                    {
-                        "nombre": "Carlos",
-                        "cargo": "Fisioterapeuta",
-                        "edad": 30
-                    },
-                    {
-                        "nombre": "Daniel",
-                        "cargo": "Preparador Fisico",
-                        "edad": 38
-                    }
-                ],
-                "estadisticas": [
-                    {
-                        "PJ": 1,
-                        "PG": 0,
-                        "PE": 1,
-                        "GF": 2,
-                        "GC": 2,
-                        "totalPuntos": 6
-                    }
-                ]
-            }
-        ],
+      "equipo": "Argentina",
+      "ciudad": "Cali",
+      "plantelJugadores": [
+        {
+          "nombre": "Lucía",
+          "nroDorsal": "09",
+          "posicionJuego": "Defensa",
+          "edad": 25
+        },
+        {
+          "nombre": "Valentina",
+          "nroDorsal": "05",
+          "posicionJuego": "Mediocampista",
+          "edad": 23
+        },
+        {
+          "nombre": "Camila",
+          "nroDorsal": "11",
+          "posicionJuego": "Delantero",
+          "edad": 28
+        },
+        {
+          "nombre": "Sofía",
+          "nroDorsal": "03",
+          "posicionJuego": "Defensa",
+          "edad": 26
+        },
+        {
+          "nombre": "Isabella",
+          "nroDorsal": "07",
+          "posicionJuego": "Delantero",
+          "edad": 21
+        },
+        {
+          "nombre": "María",
+          "nroDorsal": "02",
+          "posicionJuego": "Defensa",
+          "edad": 24
+        },
+        {
+          "nombre": "Daniela",
+          "nroDorsal": "08",
+          "posicionJuego": "Mediocampista",
+          "edad": 26
+        },
+        {
+          "nombre": "Carolina",
+          "nroDorsal": "04",
+          "posicionJuego": "Defensa",
+          "edad": 27
+        },
+        {
+          "nombre": "Martina",
+          "nroDorsal": "10",
+          "posicionJuego": "Delantero",
+          "edad": 22
+        },
+        {
+          "nombre": "Florencia",
+          "nroDorsal": "06",
+          "posicionJuego": "Mediocampista",
+          "edad": 24
+        },
+        {
+          "nombre": "Antonella",
+          "nroDorsal": "01",
+          "posicionJuego": "Portera",
+          "edad": 29
+        }
+      ],
+      "plantelTecnico": [
+        {
+          "nombre": "Gabriela",
+          "cargo": "Entrenadora Principal",
+          "edad": 41
+        },
+        {
+          "nombre": "Marcela",
+          "cargo": "Entrenadora Suplente",
+          "edad": 35
+        }
+      ],
+      "plantelMedico": [
+        {
+          "nombre": "Fernanda",
+          "cargo": "Fisioterapeuta",
+          "edad": 32
+        },
+        {
+          "nombre": "Javier",
+          "cargo": "Preparador Físico",
+          "edad": 40
+        }
+      ],
+      "estadisticas": [
+        {
+          "PJ": 1,
+          "PG": 0,
+          "PE": 1,
+          "GF": 2,
+          "GC": 2,
+          "totalPuntos": 6
+        }
+      ]
+    }
+  
+  ],
         "B": [
             {
                 "equipo": "Brasil",
