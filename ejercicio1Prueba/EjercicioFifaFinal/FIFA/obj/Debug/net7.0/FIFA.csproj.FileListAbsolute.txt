@@ -1,0 +1,17 @@
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\bin\Debug\net7.0\FIFA.exe
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\bin\Debug\net7.0\FIFA.deps.json
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\bin\Debug\net7.0\FIFA.runtimeconfig.json
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\bin\Debug\net7.0\FIFA.dll
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\bin\Debug\net7.0\FIFA.pdb
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\FIFA.csproj.AssemblyReference.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\FIFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\FIFA.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\FIFA.AssemblyInfo.cs
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\FIFA.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\FIFA.csproj.CopyComplete
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\FIFA.dll
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\refint\FIFA.dll
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\FIFA.pdb
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\FIFA.genruntimeconfig.cache
+C:\Users\luisc\Documents\C#\C-Ejercicios\ejercicio1Prueba\EjercicioFifaFinal\FIFA\obj\Debug\net7.0\ref\FIFA.dll

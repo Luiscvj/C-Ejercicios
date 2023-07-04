@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifaFinal\\FIFA\\FIFA.csproj": {}
+    "C:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifaFinal\\FIFA\\FIFA.csproj": {}
   },
   "projects": {
-    "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifaFinal\\FIFA\\FIFA.csproj": {
+    "C:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifaFinal\\FIFA\\FIFA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifaFinal\\FIFA\\FIFA.csproj",
+        "projectUniqueName": "C:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifaFinal\\FIFA\\FIFA.csproj",
         "projectName": "FIFA",
-        "projectPath": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifaFinal\\FIFA\\FIFA.csproj",
+        "projectPath": "C:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifaFinal\\FIFA\\FIFA.csproj",
         "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifaFinal\\FIFA\\obj\\",
+        "outputPath": "C:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifaFinal\\FIFA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\EjercicioFifa.csproj": {}
+    "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\EjercicioFifa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\EjercicioFifa.csproj": {
+    "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\EjercicioFifa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\EjercicioFifa.csproj",
+        "projectUniqueName": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\EjercicioFifa.csproj",
         "projectName": "EjercicioFifa",
-        "projectPath": "C:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\EjercicioFifa.csproj",
+        "projectPath": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\EjercicioFifa.csproj",
         "packagesPath": "C:\\Users\\luisc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\obj\\",
+        "outputPath": "c:\\Users\\luisc\\Documents\\C#\\C-Ejercicios\\ejercicio1Prueba\\EjercicioFifa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisc\\AppData\\Roaming\\NuGet\\NuGet.Config"
