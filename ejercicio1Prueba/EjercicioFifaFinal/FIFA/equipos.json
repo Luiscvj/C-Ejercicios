@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "A": [
         {
             "Equipo": "Argentina",
@@ -13,348 +12,40 @@
             "Equipo": "Colombia",
             "Ciudad": "Cali",
             "Jugadores": [
-=======
-  "A": [
-    {
-      "equipo": "Argentina",
-      "ciudad": "Cali",
-      "plantelJugadores": [
-        {
-          "nombre": "Lucía",
-          "nroDorsal": "09",
-          "posicionJuego": "Defensa",
-          "edad": 25
-        },
-        {
-          "nombre": "Valentina",
-          "nroDorsal": "05",
-          "posicionJuego": "Mediocampista",
-          "edad": 23
-        },
-        {
-          "nombre": "Camila",
-          "nroDorsal": "11",
-          "posicionJuego": "Delantero",
-          "edad": 28
-        },
-        {
-          "nombre": "Sofía",
-          "nroDorsal": "03",
-          "posicionJuego": "Defensa",
-          "edad": 26
-        },
-        {
-          "nombre": "Isabella",
-          "nroDorsal": "07",
-          "posicionJuego": "Delantero",
-          "edad": 21
-        },
-        {
-          "nombre": "María",
-          "nroDorsal": "02",
-          "posicionJuego": "Defensa",
-          "edad": 24
-        },
-        {
-          "nombre": "Daniela",
-          "nroDorsal": "08",
-          "posicionJuego": "Mediocampista",
-          "edad": 26
-        },
-        {
-          "nombre": "Carolina",
-          "nroDorsal": "04",
-          "posicionJuego": "Defensa",
-          "edad": 27
-        },
-        {
-          "nombre": "Martina",
-          "nroDorsal": "10",
-          "posicionJuego": "Delantero",
-          "edad": 22
-        },
-        {
-          "nombre": "Florencia",
-          "nroDorsal": "06",
-          "posicionJuego": "Mediocampista",
-          "edad": 24
-        },
-        {
-          "nombre": "Antonella",
-          "nroDorsal": "01",
-          "posicionJuego": "Portera",
-          "edad": 29
-        }
-      ],
-      "plantelTecnico": [
-        {
-          "nombre": "Gabriela",
-          "cargo": "Entrenadora Principal",
-          "edad": 41
-        },
-        {
-          "nombre": "Marcela",
-          "cargo": "Entrenadora Suplente",
-          "edad": 35
-        }
-      ],
-      "plantelMedico": [
-        {
-          "nombre": "Fernanda",
-          "cargo": "Fisioterapeuta",
-          "edad": 32
-        },
-        {
-          "nombre": "Javier",
-          "cargo": "Preparador Físico",
-          "edad": 40
-        }
-      ],
-      "estadisticas": [
-        {
-          "PJ": 1,
-          "PG": 0,
-          "PE": 1,
-          "GF": 2,
-          "GC": 2,
-          "totalPuntos": 6
-        }
-      ]
-    }
-  
-  ],
-        "B": [
-            {
-                "equipo": "Brasil",
-                "ciudad": "Medellin",
-                "plantelJugadores": [
-                    {
-                        "nombre": "Mariana",
-                        "nroDorsal": "11",
-                        "posicionJuego": "Delantero",
-                        "edad": 26
-                    },
-                    {
-                        "nombre": "Juliana",
-                        "nroDorsal": "08",
-                        "posicionJuego": "Mediocampista",
-                        "edad": 24
-                    },
-                    {
-                        "nombre": "Isabella",
-                        "nroDorsal": "05",
-                        "posicionJuego": "Defensa",
-                        "edad": 27
-                    },
-                    {
-                        "nombre": "Camila",
-                        "nroDorsal": "09",
-                        "posicionJuego": "Delantero",
-                        "edad": 23
-                    },
-                    {
-                        "nombre": "Beatriz",
-                        "nroDorsal": "06",
-                        "posicionJuego": "Mediocampista",
-                        "edad": 28
-                    },
-                    {
-                        "nombre": "Gabriela",
-                        "nroDorsal": "04",
-                        "posicionJuego": "Defensa",
-                        "edad": 25
-                    },
-                    {
-                        "nombre": "Rafaela",
-                        "nroDorsal": "07",
-                        "posicionJuego": "Delantero",
-                        "edad": 26
-                    },
-                    {
-                        "nombre": "Laura",
-                        "nroDorsal": "03",
-                        "posicionJuego": "Defensa",
-                        "edad": 24
-                    },
-                    {
-                        "nombre": "Fernanda",
-                        "nroDorsal": "10",
-                        "posicionJuego": "Mediocampista",
-                        "edad": 27
-                    },
-                    {
-                        "nombre": "Carolina",
-                        "nroDorsal": "02",
-                        "posicionJuego": "Defensa",
-                        "edad": 25
-                    },
-                    {
-                        "nombre": "Ana",
-                        "nroDorsal": "01",
-                        "posicionJuego": "Portera",
-                        "edad": 26
-                    }
-                ],
-                "plantelTecnico": [
-                    {
-                        "nombre": "Roberto",
-                        "cargo": "Entrenador Principal",
-                        "edad": 45
-                    },
-                    {
-                        "nombre": "Felipe",
-                        "cargo": "Entrenador Suplente",
-                        "edad": 38
-                    }
-                ],
-                "plantelMedico": [
-                    {
-                        "nombre": "Ricardo",
-                        "cargo": "Fisioterapeuta",
-                        "edad": 33
-                    },
-                    {
-                        "nombre": "Carlos",
-                        "cargo": "Preparador Físico",
-                        "edad": 36
-                    }
-                ],
-                "estadisticas": [
-                    {
-                        "PJ": 1,
-                        "PG": 1,
-                        "PE": 0,
-                        "GF": 3,
-                        "GC": 0,
-                        "totalPuntos": 9
-                    }
-                ]
-            }
-        ],
-        "C": [
-            {
-                "equipo": "Canadá",
-                "ciudad": "Bucaramanga",
-                "plantelJugadores": [
-                    {
-                        "nombre": "Sophie",
-                        "nroDorsal": "09",
-                        "posicionJuego": "Defensa",
-                        "edad": 24
-                    },
-                    {
-                        "nombre": "Emma",
-                        "nroDorsal": "08",
-                        "posicionJuego": "Mediocampista",
-                        "edad": 23
-                    },
-                    {
-                        "nombre": "Olivia",
-                        "nroDorsal": "07",
-                        "posicionJuego": "Delantero",
-                        "edad": 25
-                    },
-                    {
-                        "nombre": "Ava",
-                        "nroDorsal": "06",
-                        "posicionJuego": "Mediocampista",
-                        "edad": 26
-                    },
-                    {
-                        "nombre": "Charlotte",
-                        "nroDorsal": "05",
-                        "posicionJuego": "Defensa",
-                        "edad": 24
-                    },
-                    {
-                        "nombre": "Liam",
-                        "nroDorsal": "04",
-                        "posicionJuego": "Defensa",
-                        "edad": 25
-                    },
-                    {
-                        "nombre": "Noah",
-                        "nroDorsal": "03",
-                        "posicionJuego": "Delantero",
-                        "edad": 23
-                    },
-                    {
-                        "nombre": "William",
-                        "nroDorsal": "02",
-                        "posicionJuego": "Defensa",
-                        "edad": 24
-                    },
-                    {
-                        "nombre": "James",
-                        "nroDorsal": "01",
-                        "posicionJuego": "Portera",
-                        "edad": 26
-                    }
-                ],
-                "plantelTecnico": [
-                    {
-                        "nombre": "Oliver",
-                        "cargo": "Entrenador Principal",
-                        "edad": 42
-                    },
-                    {
-                        "nombre": "Ethan",
-                        "cargo": "Entrenador Suplente",
-                        "edad": 37
-                    }
-                ],
-                "plantelMedico": [
-                    {
-                        "nombre": "Sophia",
-                        "cargo": "Fisioterapeuta",
-                        "edad": 30
-                    },
-                    {
-                        "nombre": "Aiden",
-                        "cargo": "Preparador Físico",
-                        "edad": 35
-                    }
-                ],
-                "estadisticas": [
-                    {
-                        "PJ": 1,
-                        "PG": 1,
-                        "PE": 0,
-                        "GF": 2,
-                        "GC": 1,
-                        "totalPuntos": 9
-                    }
-                ]
-            }
-        ],
-        "D": [
-            {
-              "equipo": "Estados Unidos",
-              "ciudad": "Bogota",
-              "plantelJugadores": [
->>>>>>> 8d0f53eac6e841404ea490459e1c5f234da167c9
                 {
-                    "Nombre": "Juan",
-                    "NroDorsal": "Juan",
+                    "Nombre": "Oscar",
+                    "NroDorsal": "02",
+                    "PosicionJuego": "Volante",
+                    "Edad": 20
+                },
+                {
+                    "Nombre": "Raul",
+                    "NroDorsal": "10",
+                    "PosicionJuego": "Volante",
+                    "Edad": 32
+                },
+                {
+                    "Nombre": "Andres",
+                    "NroDorsal": "11",
                     "PosicionJuego": "Volante",
                     "Edad": 43
                 },
                 {
-                    "Nombre": "Juan",
-                    "NroDorsal": "Juan",
-                    "PosicionJuego": "Volante",
-                    "Edad": 43
-                },
-                {
-                    "Nombre": "Juan",
-                    "NroDorsal": "Juan",
-                    "PosicionJuego": "Volante",
-                    "Edad": 43
+                    "Nombre": "Hernando",
+                    "NroDorsal": "24",
+                    "PosicionJuego": "volante",
+                    "Edad": 23
                 }
-<<<<<<< HEAD
             ],
             "Tecnicos": [],
-            "Medicos": [],
+            "Medicos": [
+                {
+                    "Nombre": "Jorge",
+                    "Cargo": "Fisio",
+                    "Edad": 32,
+                    "IdPersona": 0
+                }
+            ],
             "EQEstadisticas": []
         },
         {
@@ -386,7 +77,14 @@
         {
             "Equipo": "Holanda",
             "Ciudad": "Bucaramnga",
-            "Jugadores": [],
+            "Jugadores": [
+                {
+                    "Nombre": "Carlos",
+                    "NroDorsal": "20",
+                    "PosicionJuego": "Delantero",
+                    "Edad": 21
+                }
+            ],
             "Tecnicos": [],
             "Medicos": [],
             "EQEstadisticas": []
@@ -475,58 +173,5 @@
             "Medicos": [],
             "EQEstadisticas": []
         }
-    ],
-    "": [
-        {
-            "Equipo": "",
-            "Ciudad": "",
-            "Jugadores": [],
-            "Tecnicos": [],
-            "Medicos": [],
-            "EQEstadisticas": []
-        }
     ]
 }
-=======
-              ],
-              "plantelTecnico": [
-                {
-                  "nombre": "William",
-                  "cargo": "Entrenador Principal",
-                  "edad": 44
-                },
-                {
-                  "nombre": "Benjamin",
-                  "cargo": "Entrenador Suplente",
-                  "edad": 39
-                }
-              ],
-              "plantelMedico": [
-                {
-                  "nombre": "Oliver",
-                  "cargo": "Fisioterapeuta",
-                  "edad": 33
-                },
-                {
-                  "nombre": "Daniel",
-                  "cargo": "Preparador Físico",
-                  "edad": 36
-                }
-              ],
-              "estadisticas": [
-                {
-                  "PJ": 1,
-                  "PG": 0,
-                  "PE": 1,
-                  "GF": 1,
-                  "GC": 1,
-                  "totalPuntos": 6
-                }
-              ]
-            }
-    
-          ]
-          
-    }
-]
->>>>>>> 8d0f53eac6e841404ea490459e1c5f234da167c9

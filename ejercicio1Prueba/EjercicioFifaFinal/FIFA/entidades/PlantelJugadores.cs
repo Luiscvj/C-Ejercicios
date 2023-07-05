@@ -9,7 +9,7 @@ namespace MUNDIAL {
 
 
         public string ?  Nombre {get => nombre; set=> nombre = value;}
-        public string ? NroDorsal { get=> nombre; set=>nombre = value;}
+        public string ? NroDorsal { get=> nroDorsal; set=>nroDorsal = value;}
         public string ? PosicionJuego {get=>posicionJuego ; set=> posicionJuego = value;}
         public int Edad {get => edad; set=>edad=value;}
 

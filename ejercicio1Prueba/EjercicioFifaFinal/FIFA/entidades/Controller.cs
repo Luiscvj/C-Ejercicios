@@ -3,6 +3,7 @@ using MUNDIAL;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
+using System.Numerics;
 
 namespace Ejecucion{
    
@@ -199,7 +200,7 @@ namespace Ejecucion{
 
 
 //====================Personas===========================================0
-
+ //////////////////////////// Registrar/////////////////////////////////////////////
     public void MenuPersonas(){
 
         bool isValid = true;
@@ -228,8 +229,7 @@ namespace Ejecucion{
         }
     }
 
-
-
+ //==============================================REGISTRAR==================================================
 
     public  void MenuPersonasRegistrar(){
             bool isValid =  true;        
@@ -250,7 +250,11 @@ namespace Ejecucion{
                                     registrarJugador(grupo,equipo);
                                     break;
                                 case "2":
-                                   // MostrarEquipo(dicEquipos);
+                                     Console.WriteLine("Ingrese el grupo del equipo al que quiere agregar el Plantel Medico| A | B | C | D |");
+                                    string grupoMed = Console.ReadLine().ToUpper();
+                                    Console.WriteLine("Ingrese el equipo del Plantel Medico: ");
+                                    string equipoMed = Console.ReadLine() ?? string.Empty;
+                                    registrarPlantelMedico(grupoMed, equipoMed);
                                     break;
                                 case "3":
                                   
@@ -264,35 +268,7 @@ namespace Ejecucion{
 
         }
 
-
-         public  void MenuPersonasListar(){
-            bool isValid =  true;        
-            while(isValid)
-                  {  
-                      Console.Clear();
-                      Console.WriteLine("1)Listar Jugadores \n2)Ver plantel medico \n3)Ver plantel Tecnico \n4)Salir");
-                      string op =Console.ReadLine() ?? string.Empty;
-                      switch(op)
-                              {  
-                                case "1":
-                                    //AddEquipo();
-                                    break;
-                                case "2":
-                                   // MostrarEquipo(dicEquipos);
-                                    break;
-                                case "3":
-                                  
-                                    break;
-                                case "4":
-                                    isValid=false;
-                                    break;
-                         
-                              }
-                  }
-
-        }
-
-
+    
     public  void registrarJugador(string Grupo, string EquipoBuscado)
     {
             
@@ -343,6 +319,140 @@ namespace Ejecucion{
          saveJson(dicEquipos);
                     
     }
+
+
+    public void registrarPlantelMedico(string grupo, string equipoBuscado)
+        {  
+           PlantelMedico personaMed = new PlantelMedico();
+           List<PlantelMedico> medicos = new List<PlantelMedico>();
+
+           if(this.dicEquipos.TryGetValue(grupo , out List<Equipos>  equipos)){
+
+                Equipos equipoFound = equipos.FirstOrDefault(equipo => equipo.Equipo == equipoBuscado) ?? new Equipos();
+                medicos = equipoFound.Medicos;
+                if(equipoFound != null){
+
+                Console.WriteLine(medicos.Count());
+                      do{
+                            Console.WriteLine("Ingrese el nombre del profesional medico: ");
+                            personaMed.Nombre= Console.ReadLine();
+                            Console.WriteLine("Ingrese el cargo del profesional medico: ");
+                            personaMed.Cargo= Console.ReadLine();
+                            Console.WriteLine("Ingrese la edad  del profesional medico: ");
+                            personaMed.Edad= Convert.ToInt16(Console.ReadLine());
+                            medicos.Add(personaMed);
+                            equipoFound.Medicos = medicos;
+                           
+                       
+                            
+                            Console.WriteLine("¿Desea agregar otro miembro al equipo medico?\nEnter para Si\nCualquier otra tecla para No");
+
+
+                      }while(Console.ReadKey().Key == ConsoleKey.Enter);
+                    
+                     
+                   
+
+                }else{
+                    Console.WriteLine("Equipo no encontrado en el grupo especificado");
+                    Console.ReadKey();
+                }
+
+
+           } 
+         
+           else{
+            Console.WriteLine("Grupo especificado no encontrado, por favor intentelo de nuevo");
+            Console.ReadKey();
+            
+           }
+             saveJson(dicEquipos);
+
+        
+        
+            
+        }
+ //////////////////////////// Registrar/////////////////////////////////////////////
+ /// 
+ /// 
+ /// 
+ /// 
+ /// 
+ /// 
+ /// 
+//==================================LISTAR===========================================
+
+   
+
+
+
+         public  void MenuPersonasListar(){
+            bool isValid =  true;        
+            while(isValid)
+                  {  
+                      Console.Clear();
+                      Console.WriteLine("1)Listar Jugadores \n2)Ver plantel medico \n3)Ver plantel Tecnico \n4)Salir");
+                      string op =Console.ReadLine() ?? string.Empty;
+                      switch(op)
+                              {  
+                                case "1":
+                                    Console.WriteLine("Ingresa el grupo sobre el que deseas buscar al jugador");
+                                    string grupo = Console.ReadLine() ?? string.Empty;
+                                    Console.WriteLine("Ingresa el nombre del equipo del jugador");
+                                    string equipo = Console.ReadLine() ?? string.Empty;
+                                    verJugadoresPorEquipo(grupo, equipo);
+
+                                    break;
+                                case "2":
+                                   // MostrarEquipo(dicEquipos);
+                                    break;
+                                case "3":
+                                  
+                                    break;
+                                case "4":
+                                    isValid=false;
+                                    break;
+                         
+                              }
+                  }
+
+        }
+
+
+
+    public void verJugadoresPorEquipo(string grupo, string equipoBuscado){
+
+            dicEquipos.TryGetValue(grupo, out List<Equipos> equipos);
+           
+            Equipos equipoF =equipos.FirstOrDefault(equipoFound => equipoFound.Equipo == equipoBuscado) ?? new Equipos();
+            if(equipoF != null){
+            List<PlantelJugadores> jugadores = equipoF.Jugadores;
+            
+            Console.WriteLine("=================================JUGADORES=====================================================");
+            Console.WriteLine("\n{0,10} {1,80}","GRUPO", "EQUIPO");
+            Console.WriteLine("\n{0,5} {1,80}",grupo, equipoBuscado);
+            Console.WriteLine("*                                                                                              *");
+            Console.WriteLine("{0,-5} {1, 20} {2,30} {3,40}","Nombre", "Numero Dorsal", "Posicion", "Edad" );
+            foreach(PlantelJugadores player in jugadores){
+             
+                Console.WriteLine("{0,-5} {1, 15} {2,30} {3,40}                        ",player.Nombre,player.NroDorsal, player.PosicionJuego, player.Edad);
+
+            }
+            Console.WriteLine("*                                                                                              *");
+           
+            Console.WriteLine("//================================JUGADORES====================================================//");
+            Console.ReadKey();
+        }  {
+            Console.WriteLine("El grupo especificado no existe, por favor ingrese otro.");
+        } 
+
+         
+    }
+
+
+
+
+
 }
 
 
@@ -351,9 +461,9 @@ namespace Ejecucion{
 
 
 
-
-
-
-
-
 }
+
+
+
+
+
